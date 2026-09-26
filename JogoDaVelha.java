@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class JogoDaVelha1 {
+public class JogoDaVelha {
     private static char[][] tabuleiro = new char[3][3];
     private static char jogadorAtual = 'X';
     private static Scanner scanner = new Scanner(System.in);
